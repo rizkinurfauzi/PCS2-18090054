@@ -1,1 +1,1 @@
-nim : 18090122 nama : Dimas Llham M kelas : 4C
+nim : 18090054 nama : RIZKI NUR FAUZI kelas : 4C
